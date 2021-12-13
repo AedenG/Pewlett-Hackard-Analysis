@@ -37,3 +37,8 @@ Knowing the salary of the outgoing cohort will be helpful in planning the budget
 The department of the retiring employee will be helpful to be aware of when considering staffing needs.
 
 <img width="459" alt="departments_retirement" src="https://user-images.githubusercontent.com/91852495/145737604-785b7237-16b4-40f6-8708-eea5f54d350b.png">
+
+Pewlett-Hackard will need to fill 90,399 roles with the large cohort of upcoming retirees. 1,550 current employees are eligible to provide mentorship to the next generation of Pewlett-Hackard employees. That is roughly 1 mentor per 58 employees which certainly presents a challenge. Pewlett-Hackard may need to get creative in how they address this. This could include: 
+- Finding out where the loss of knowledge might be the most damaging and focus your resources with mentoring there.
+- Coming up with a training course to transfer knowledge for onboarding employees. 
+- Starting to cross-train employees in key positions early.
