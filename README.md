@@ -28,4 +28,12 @@ Pewlett-Hackard requested that I look into the number of employees who will like
 
 <img width="732" alt="mentorship_eligibility" src="https://user-images.githubusercontent.com/91852495/145735725-9d755117-6489-409e-88a7-5adb7370a009.png">
 
+## Summary 
 
+Knowing the salary of the outgoing cohort will be helpful in planning the budget for promoted or newly hired employees.
+
+<img width="410" alt="salaries_retirement" src="https://user-images.githubusercontent.com/91852495/145736653-2547490d-613a-4c2b-95a2-70fc63ac320c.png">
+
+The department of the retiring employee will be helpful to be aware of when considering staffing needs.
+
+<img width="459" alt="departments_retirement" src="https://user-images.githubusercontent.com/91852495/145737604-785b7237-16b4-40f6-8708-eea5f54d350b.png">
