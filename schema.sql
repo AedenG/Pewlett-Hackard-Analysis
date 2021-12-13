@@ -117,5 +117,29 @@ WHERE de.to_date = ('9999-01-01')
 AND (birth_date BETWEEN '1965-01-01' AND '1965-12-31')
 ORDER BY em.emp_no, title;
 
-SELECT * FROM mentorship_eligibilty;
-DROP TABLE retiring_titles CASCADE;
+--Query 1
+SELECT e.emp_no,
+    e.first_name,
+	e.last_name,
+	s.salary
+INTO salaries_retirement
+FROM employees as e
+INNER JOIN salaries as s
+ON e.emp_no = s.emp_no
+WHERE (birth_date BETWEEN '1952-01-01' AND '1955-12-31')
+ORDER BY e.emp_no;
+
+--Query 2
+SELECT e.emp_no,
+    e.first_name,
+	e.last_name,
+	de.dept_no
+INTO department_retirement
+FROM employees as e
+INNER JOIN dept_emp as de
+ON e.emp_no = de.emp_no
+WHERE (birth_date BETWEEN '1952-01-01' AND '1955-12-31')
+ORDER BY e.emp_no;
+
+SELECT * FROM salaries_retirement;
+DROP TABLE salaries_retirement CASCADE;
